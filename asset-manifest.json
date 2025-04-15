@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CLOUDCICD/static/css/main.fa5614e2.css",
+    "main.js": "/CLOUDCICD/static/js/main.28b9689b.js",
+    "static/js/453.65844ca4.chunk.js": "/CLOUDCICD/static/js/453.65844ca4.chunk.js",
+    "index.html": "/CLOUDCICD/index.html",
+    "main.fa5614e2.css.map": "/CLOUDCICD/static/css/main.fa5614e2.css.map",
+    "main.28b9689b.js.map": "/CLOUDCICD/static/js/main.28b9689b.js.map",
+    "453.65844ca4.chunk.js.map": "/CLOUDCICD/static/js/453.65844ca4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa5614e2.css",
+    "static/js/main.28b9689b.js"
+  ]
+}
