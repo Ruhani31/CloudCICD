@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# Etch-a-Sketch Web Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Etch-a-Sketch Preview](./assets/images/preview.png)](https://onkar69483.github.io/Etch-a-Sketch/)
 
-## Available Scripts
+Visit -> [Etch-a-Sketch](https://onkar69483.github.io/Etch-a-Sketch/).
 
-In the project directory, you can run:
+Welcome to Etch-a-Sketch, a simple yet fun web application that allows users to unleash their creativity by painting on a digital canvas. Whether you're an artist or just looking for a way to relax and doodle, Etch-a-Sketch offers a range of tools and options to cater to your painting needs.
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Grid Painting**: Create colorful masterpieces on a grid-based canvas.
+- **Custom Grid Size**: Adjust the grid size according to your preference.
+- **Color Selection**: Choose from a variety of colors to paint with.
+- **Toggle Grid**: Easily toggle the grid on and off for a different painting experience.
+- **Different Painting Tools**: Switch between pencil, eraser, and rainbow mode for varied effects.
+- **Clear Canvas**: Clear the canvas with a single click to start fresh.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Usage
 
-### `npm test`
+1. Visit the [Etch-a-Sketch website](https://onkar69483.github.io/Etch-a-Sketch/).
+2. Adjust the grid size if desired using the input field provided.
+3. Select your preferred painting tool: Pencil, Eraser, or Rainbow.
+4. Choose a color from the color palette.
+5. Start painting on the canvas by clicking and dragging your mouse cursor.
+6. Use the "Clear" button to erase all drawings and start over.
+7. Toggle the grid on or off using the "Toggle Grid" button for different painting experiences.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Contributing
 
-### `npm run build`
+If you'd like to contribute to the development of Etch-a-Sketch, feel free to fork this repository, make your changes, and submit a pull request. Any contributions are highly appreciated!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Credits
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Developer**: Onkar Mendhapurkar ([LinkedIn](https://www.linkedin.com/in/onkarmendhapurkar/), [GitHub](https://github.com/onkar69483), [YouTube](https://www.youtube.com/channel/UCK4ijj-RTWKFb1gyTpa1xSg))
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Reference**: [The Odin Project](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Enjoy painting with Etch-a-Sketch! 🎨🖌️
